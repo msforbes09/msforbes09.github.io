@@ -32,3 +32,8 @@
 - [ ] \(Parentheses) needs backslash
 
 \*ignoring formatting*
+
+| Left  | Center | Right |
+| :------------ | :-------------: | -------------: |
+| \| included  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  |
