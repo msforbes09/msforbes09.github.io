@@ -11,3 +11,24 @@
 [Probot](https://probot.github.io/)
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
+
+#### Basic Mark Down
+
+**Bold** *Italic* ~~StrikeThrough~~
+> This is a quote.
+
+` #backticks are used here.# `
+
+- unordered list
+- unordered list
+- unordered list
+
+1. ordered list
+1. ordered list
+1. ordered list
+
+- [ ] Checkbox
+- [x] Default Checkbox
+- [ ] \(Parentheses) needs backslash
+
+\*ignoring formatting*
