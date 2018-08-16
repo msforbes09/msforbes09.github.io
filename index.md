@@ -12,7 +12,11 @@
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
-[My Tribute Page](https://codepen.io/msforbes09/full/wxyvye/)
+[Code Pen](https://codepen.io/msforbes09/)
+
+[CodeCademy](https://www.codecademy.com)
+
+[Javascript Tutorial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 #### Basic Mark Down
 
